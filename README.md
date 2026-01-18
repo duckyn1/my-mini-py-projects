@@ -7,7 +7,13 @@ Daily learning and small projects to build skills.
   Console game with input validation, random choice and replay option.  
 
 - **Cinema Snack Checkout**  
-  Simple cinema menu simulator: add items, check availability, calculate total.  
+  Simple cinema menu simulator: add items, check availability, calculate total.
+
+- **Quiz Game**
+  Simple quiz game.
+
+- **Blud Guess Game and other projetcs**
+  A console game, where you guessing number of your blud.
   
 
 ### Goals:
