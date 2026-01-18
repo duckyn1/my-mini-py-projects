@@ -4,15 +4,19 @@ Daily learning and small projects to build skills.
 
 ### Current Projects:
 - **Rock Paper Scissors**  
+
   Console game with input validation, random choice and replay option.  
 
 - **Cinema Snack Checkout**  
+
   Simple cinema menu simulator: add items, check availability, calculate total.
 
 - **Quiz Game**
+
   Simple quiz game.
 
 - **Blud Guess Game and other projetcs**
+
   A console game, where you guessing number of your blud.
   
 
