@@ -3,7 +3,7 @@ import time
 
 options = ("Rock", "Paper", "Scissors")
 
-req = input("Hi, you wanna play with me a Rock, Paper, and Scissors? (y/n): ").lower()
+req = input("Hi, wanna play with me a Rock, Paper, and Scissors? (y/n): ").lower()
 running = True
 
 while running:
@@ -32,4 +32,5 @@ while running:
 
     if not input("Play again? (y/n): ").lower() == "y":
         running = False
+
 print("Thanks for playing!")
