@@ -1,7 +1,8 @@
 stand = {"Sprite": 1,
          "Lays": 2, 
          "Popcorn": 0.75,
-         "Hotdog": 1.5}
+         "Hotdog": 1.5,
+         "Water": 0.5}
 cartp = []
 total = 0
 
