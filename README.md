@@ -15,7 +15,7 @@ Daily learning and small projects to build skills.
 
   Simple quiz game.
 
-- **Blud Guess Game and other projetcs**
+- **Blud Guess Game and other projects**
 
   A console game, where you guessing number of your blud.
   
