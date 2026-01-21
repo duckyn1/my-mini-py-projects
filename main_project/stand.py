@@ -19,8 +19,6 @@ while True:
     if stand.get(item) is not None:
         cartp.append(item)
         print(f"{item} added to ur cart!")
-    elif item.lower() == "pay":
-        print("its testing.")
     else:
         print(f"{item} is not exist.")
         print("------- MENU -------")
@@ -38,3 +36,4 @@ for item in cartp:
 
 print()
 print(f"Total price: ${total:.2f}")
+
