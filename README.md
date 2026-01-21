@@ -1,7 +1,4 @@
 # my-mini-py-projects
- 
-Daily learning and small projects to build skills.
-
 ### Current Projects:
 - **Rock Paper Scissors**  
 
@@ -15,9 +12,11 @@ Daily learning and small projects to build skills.
 
   Simple quiz game.
 
-- **Blud Guess Game and other projects**
+- **Blud Guess Game**
 
   A console game, where you guessing number of your blud.
+
+- **AND OTHER COOL PROJECTS**
   
 
 ### Goals:
