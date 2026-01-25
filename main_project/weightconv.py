@@ -1,4 +1,4 @@
-weight_a = int(input("Enter your weight: "))
+weight_a = int(input("Enter your weight: ")) # input
 
 text_units = input("Is that kg or lbs (enter k or l): ")
 
@@ -10,3 +10,4 @@ elif text_units.lower() or text_units.upper() == "L":
     print(f"Your weight is {convert} kgs")
 else:
     print("nah bro, try again")
+
