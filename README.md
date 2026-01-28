@@ -21,7 +21,7 @@
 
 ### Goals:
 - Daily commits  
-- Learn clean code, Git, best practices  
+- Learn clean code, Git  
 - Build portfolio for future junior roles
 
 Feel free to fork, use (MIT license) or give feedback!
