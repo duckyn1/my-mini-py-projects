@@ -18,16 +18,16 @@ while True:
     
     b_input = input("Write here ur number: ")
     if b_input.lower() == 'exit':
-        print("Okay, see ya later! 👋")
+        print("Okay, see ya!")
         break
 
     try:
         b = float(b_input)
     except ValueError:
-        print("Bro, that's not a number 😅 Try again!")
+        print("Bro, that's not a number. Try again!")
         continue
 
-    burgers = f"dam {b} is big 🔥" if b > a else f"nah {a} is bigger, sorry bro 😔"
+    burgers = f"dam {b} is big" if b > a else f"nah {a} is bigger, sorry bro"
     print(burgers)
     
     games += 1
@@ -39,3 +39,4 @@ while True:
         print(f"Blud won. Score: {your_wins}:{blud_wins}. Total games played: {games}. Testing: {random_nmb}")
 
     time.sleep(2)
+
