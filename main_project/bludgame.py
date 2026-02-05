@@ -3,7 +3,7 @@ import random
 
 your_wins = 0
 blud_wins = 0
-random_nmb = random.randrange(67, 70)
+random_nmb = random.randrange(0, 70)
 
 games = 0
 
@@ -39,4 +39,5 @@ while True:
         print(f"Blud won. Score: {your_wins}:{blud_wins}. Total games played: {games}. Testing: {random_nmb}")
 
     time.sleep(2)
+
 
