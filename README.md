@@ -16,6 +16,10 @@
 
   A console game, where you guessing number of your blud.
 
+- **Word Guess**
+
+  Game, where you guessing words
+
 - **AND OTHER COOL PROJECTS**
   
 
