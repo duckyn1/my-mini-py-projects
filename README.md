@@ -22,9 +22,11 @@
 
 - [TEST] **Car Game**
 
-- [WIP] **Banking Program**
+  ...
 
-  ???
+- **Banking Program**
+
+  Banking program with basic functions: deposit, withdraw, and checking the balance.
   
 - **AND OTHER COOL PROJECTS**
   
