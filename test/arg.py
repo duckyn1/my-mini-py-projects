@@ -4,4 +4,5 @@ def add(*args):
         total += arg
     return total
 
-print(add(1, 3453, 3424123123, 3))
+
+print(add(1, 3453, 3424123123, 4334, 234234, 4245346, 44, 3))
