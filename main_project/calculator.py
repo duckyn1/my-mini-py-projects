@@ -1,4 +1,4 @@
-import math
+import math # importing necessary libs
 import time
 
 operator = input("Write operator (+, -, /, *, **): ")
@@ -30,3 +30,4 @@ elif operator == "**":
     print(f"{round(nmb1)} ** {round(nmb2)} = {round(grk)}")
 else:
     print("idk what is this")
+
