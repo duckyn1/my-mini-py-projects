@@ -24,8 +24,10 @@
 
   Banking program with basic functions: deposit, withdraw, and checking the balance.
 
-- **[WIP] Ducky's Slots**
+- **Ducky's Slots**
 
+  Just slot game.
+  
 - **AND OTHER COOL PROJECTS**
   
 
