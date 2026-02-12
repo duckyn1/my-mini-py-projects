@@ -20,10 +20,6 @@
 
   Game, where you guessing words
 
-- [TEST] **Car Game**
-
-  ...
-
 - **Banking Program**
 
   Banking program with basic functions: deposit, withdraw, and checking the balance.
