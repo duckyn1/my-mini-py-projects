@@ -26,7 +26,7 @@
 
 - **Ducky's Slots**
 
-  Just slot game.
+  Slot game with system of jackpot, and mini-jackpot.
   
 - **AND OTHER COOL PROJECTS**
   
