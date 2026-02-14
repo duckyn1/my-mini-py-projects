@@ -27,6 +27,10 @@
 - **Ducky's Slots**
 
   Slot game with system of jackpot, and mini-jackpot.
+
+- **[WIP] Encrypt & Decrypt**
+
+  in progress..
   
 - **AND OTHER COOL PROJECTS**
   
