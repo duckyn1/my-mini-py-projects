@@ -21,7 +21,7 @@
 
 - **Word Guess**
 
-  Game, where you guessing words
+  Game, where you guessing words.
 
 - **Banking Program**
 
@@ -31,9 +31,9 @@
 
   Slot game with system of jackpot, and mini-jackpot.
 
-- **[WIP] Encrypt & Decrypt**
+- **Encrypt & Decrypt**
 
-  in progress..
+  Program where you can encrypt and decrypt your text.
   
 - **AND OTHER COOL PROJECTS**
   
