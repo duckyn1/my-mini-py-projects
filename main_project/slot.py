@@ -40,7 +40,7 @@ def spinnin(numbers, bet1):
         return 0
 
 def main():
-    numbers = [6, 7]
+    numbers = [1, 2, 3, 4, 5, 6, 7]
     balance = 100
     running = True
 
@@ -81,4 +81,5 @@ def main():
 
         
 if __name__ == "__main__":
+
     main()
