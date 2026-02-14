@@ -1,4 +1,7 @@
 # my-mini-py-projects
+
+## A collection of small Python console projects built while learning programming.
+
 ### Current Projects:
 - **Rock Paper Scissors**  
 
