@@ -17,7 +17,7 @@
 
 - **Blud Guess Game**
 
-  A console game, where you guessing number of your blud.
+  A console game, where you guessing numbers.
 
 - **Word Guess**
 
