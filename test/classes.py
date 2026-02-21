@@ -23,6 +23,7 @@ class Reverse(MiniPillow):
 
 mini = MiniPillow("cutie")
 reverse = Reverse("venom")
+venom = Pillow("placeholder")
 
 mini.lay()
 reverse.throw()
