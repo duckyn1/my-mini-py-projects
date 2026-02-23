@@ -29,7 +29,7 @@
 
 - **Ducky's Slots**
 
-  Slot game with system of jackpot, and mini-jackpot.
+  Slot game with system of jackpot, mini-jackpot, and a replay option.
 
 - **Encrypt & Decrypt**
 
