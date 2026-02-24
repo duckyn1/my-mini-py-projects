@@ -11,7 +11,7 @@ class Burger:
  #INSTANCE METHOD
     def get_info(self):
         return f"{self.number}. {self.name}: ${self.price}"
-   #CLASS METHOD
+ #CLASS METHOD
     @classmethod
     def get_nmb(cls):
         return f"Total # of burgers: {cls.number}"
