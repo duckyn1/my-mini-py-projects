@@ -10,4 +10,3 @@ elif text_units.lower() or text_units.upper() == "L":
     print(f"Your weight is {convert} kgs")
 else:
     print("nah bro, try again")
-
