@@ -28,5 +28,5 @@ class Burger:
 burger = Burger("Cheeseburger", 2.99)
 burger1 = Burger("Hamburger", 3.99)
 burger2 = Burger("Chickenburger", 4.99)
-burger3 = Burger("Kavburger", 4.99)
+burger3 = Burger("Burger", 1.99)
 print(Burger.get_total())
