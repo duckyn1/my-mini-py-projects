@@ -1,4 +1,3 @@
-import time
 import math
 
 principle = 0
@@ -23,9 +22,7 @@ while time1 <= 0:
 totalpr = principle * (1 + rate / 100) ** time1
 
 print("Calculating balance..")
-time.sleep(0.5)
 print(f"{principle} * (1 + {rate} / 100) ** {time1}")
-time.sleep(0.5)
 print(f"{principle} * (1 + {rate} / 100) ** {time1} = {round(totalpr)}")
-time.sleep(0.5)
 print(f"Balance after {round(time1)} year/s: {round(totalpr):.2f}$")
+
