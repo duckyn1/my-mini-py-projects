@@ -35,7 +35,9 @@
 
   Program where you can encrypt and decrypt your text, with menu (in console).
 
-- **???**
+- **Ducky's Notes**
+
+  Program where you can store notes in .txt file, with time and content of your note, has console menu.
   
 - **AND OTHER COOL PROJECTS**
   
