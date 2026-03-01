@@ -38,6 +38,10 @@
 - **Ducky's Notes**
 
   Program where you can store notes in .txt file, with time and content of your note, has console menu.
+
+- **[WIP] Alarm Clock**
+
+  ...
   
 - **AND OTHER COOL PROJECTS**
   
