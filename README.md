@@ -39,9 +39,9 @@
 
   Program where you can store notes in .txt file, with time and content of your note, has console menu.
 
-- **[WIP] Alarm Clock**
+- **Alarm Clock**
 
-  ...
+  Simple alarm clock with console menu, with function of checking current time.
   
 - **AND OTHER COOL PROJECTS**
   
