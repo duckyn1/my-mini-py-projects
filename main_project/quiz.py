@@ -3,7 +3,7 @@ questions = ("1. When was the first iPod released? ",
              "3. Who was the youngest U.S. president? ",
              "4. What are California’s state colors? ",
              "5. What is the currency of Poland? ")
-options = (("A) 2001", "B) 2007", "C) 2009"),
+options = (("A) 2011", "B) 2007", "C) 2009"),
            ("A) Asia", "B) Europe", "C) Africa"),
            ("A) Theodore Roosevelt", "B) Joe Biden", "C) George Washington"),
            ("A) Black and Red", "B) White and Gold", "C) Blue and Gold"),
