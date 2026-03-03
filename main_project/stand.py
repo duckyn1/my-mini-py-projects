@@ -36,4 +36,3 @@ for item in cartp:
 
 print()
 print(f"Total price: ${total:.2f}")
-
