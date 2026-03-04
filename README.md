@@ -21,7 +21,7 @@
 
 - **Word Guess**
 
-  Game, where you guessing words.
+  Game, where you guessing words in style of hangman.
 
 - **Banking Program**
 
