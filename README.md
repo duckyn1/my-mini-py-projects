@@ -53,4 +53,4 @@
 
 Feel free to fork, use [(MIT license)](https://github.com/duckyn1/my-mini-py-projects/blob/main/LICENSE) or give feedback!
 
-Contact: [@duckyn1 (Telegram)](t.me/duckyn1)
+Contact: [@duckyn1 (Telegram)](https://t.me/duckyn1)
