@@ -3,7 +3,6 @@ import random
 
 your_wins = 0
 blud_wins = 0
-random_nmb = random.randrange(0, 70)
 
 games = 0
 
@@ -33,11 +32,9 @@ while True:
     games += 1
     if b > a:
         your_wins += 1
-        print(f"You won! Score: {your_wins}:{blud_wins}. Total games played: {games}. Testing: {random_nmb}")
+        print(f"You won! Score: {your_wins}:{blud_wins}. Total games played: {games}.")
     else:
         blud_wins += 1
-        print(f"Blud won. Score: {your_wins}:{blud_wins}. Total games played: {games}. Testing: {random_nmb}")
+        print(f"Blud won. Score: {your_wins}:{blud_wins}. Total games played: {games}.")
 
     time.sleep(2)
-
-
