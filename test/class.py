@@ -11,7 +11,7 @@ class Phone:
         print(f"Your phone model is {self.model}, color: {self.color}, and cost ${self.price}")
 
 phone = Phone("Xiaomi 15", 599.99, "Red")
-phone1 = Phone("Xiaomi 14", 699.99, "Red")
-phone2 = Phone("Xiaomi 16", 799.99, "Red")
+phone2 = Phone("Xiaomi 14", 699.99, "Red")
+phone3 = Phone("Xiaomi 16", 799.99, "Red")
 
 phone2.describe()
