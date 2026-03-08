@@ -2,7 +2,7 @@
 
 ## A collection of small Python console projects built while learning programming.
 
-### Current Projects:
+### Current Projects (It's 19 programs in total, but I highlighted 12 of them):
 - [**Rock Paper Scissors**](https://github.com/duckyn1/my-mini-py-projects/blob/main/main_project/rps.py)
 
   Console game with input validation, random choice and replay option.  
@@ -46,6 +46,10 @@
 - [**Ducky's Tools**](https://github.com/duckyn1/my-mini-py-projects/blob/main/main_project/main_launcher.py)
 
   Minimalistic launcher with my 7 mini-projects.
+
+- [**Weather Tool**](https://github.com/duckyn1/my-mini-py-projects/blob/main/main_project/weather.py)
+
+  Program that can show weather in your city (using requests, time libraries).
   
 - [**AND OTHER COOL PROJECTS**](https://github.com/duckyn1/my-mini-py-projects/tree/main/main_project)
   
@@ -68,9 +72,9 @@
    pip install -r requirements.txt
    ```
 5. Launch the launcher (or project you chosen):
-  ```bash
-  python main.py
-  ```
+    ```bash
+    python main.py
+    ```
 
 ### Goals:
 - Daily commits  
