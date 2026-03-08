@@ -1,3 +1,12 @@
+# Important: API Key. This project uses OpenWeatherMap API. You need a free API key to run it.
+
+# 1. Go to https://openweathermap.org/api  
+# 2. Sign up (free tier — 60 requests/minute)  
+# 3. Copy your API key from the dashboard  
+# 4. Create a file named `.env` in the project root with this content: API_KEY=your_api_key_here
+# 5. Install `python-dotenv` if not already
+# Never commit your .env file! Add it to .gitignore: .env
+
 import requests
 import time
 
@@ -31,4 +40,5 @@ try:
     else:
         print("Error of API.")
 except Exception as e:
+
     print(f"Error: {e}")
