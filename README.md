@@ -1,3 +1,5 @@
+### REPO ARCHIVED, NEW PROJECTS WILL BE PUBLISHED IN NEW REPOS.
+
 # my-mini-py-projects
 
 ## A collection of small Python console projects built while learning programming.
