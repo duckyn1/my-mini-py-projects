@@ -3,6 +3,9 @@
 # my-mini-py-projects
 
 ## A collection of small Python console projects built while learning programming.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Purpose](https://img.shields.io/badge/Purpose-Learning-green)
+![Status](https://img.shields.io/badge/Status-Archive-yellow)
 
 ### Current Projects (It's 19 programs in total, but I highlighted 12 of them):
 - [**Rock Paper Scissors**](https://github.com/duckyn1/my-mini-py-projects/blob/main/main_project/rps.py)
